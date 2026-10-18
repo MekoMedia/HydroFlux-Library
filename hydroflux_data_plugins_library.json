@@ -16,7 +16,7 @@
     "pluginscript": ["<!-- keep existing codinglite body here -->"]
   },
   {
-    "pluginname": "IDE TOOLS",
+    "pluginname": "ide",
     "pluginversion": "1.0.0",
     "pluginpublishedate": "2026-10-19",
     "plugincreator": "Hydrolux",
